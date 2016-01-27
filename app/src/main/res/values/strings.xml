@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">胎动计数仪</string>
+
+    <string-array name="time_fetal_movement">
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+</resources>
